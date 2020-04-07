@@ -6,3 +6,5 @@ I am learning GitHub so that I can use it for the ICDC project.  I work with the
 08/29/2019: Learning Github from this tutorial: https://guides.github.com/activities/hello-world/
 
 I am trying to figure out how to connect GitHub and Jira using DVCS.  Wish me luck, because I don't have a clue what I am doing.
+
+Trying again.  Still don't understand what I am doing.
